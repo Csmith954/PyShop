@@ -1,2 +1,2 @@
 # PyShop
-A simple page built with Python using Django framework
+A simple page built with Python using Django framework and Bootstrap 5
